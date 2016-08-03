@@ -1,7 +1,5 @@
 # Code of Conduct
 
-> Local chapters should fork this document and modify to meet the needs of their communities.
-
 All attendees, speakers, exhibitors, organizers, contributors and volunteers are required to conform to the following Code of Conduct.
 
 Papers We Love events are for anyone interested in Computer Science/Computer Engineering, its history, and related fields to discuss academic research in a fun, engaging and respectful environment.
@@ -13,7 +11,7 @@ We value the participation of each member of the community and want all attendee
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, **#paperswelove** on dctech.slack.com, or [PapersWeLove.org](http://paperswelove.org) please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/washington-dc), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, **#paperswelove** on dctech.slack.com, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Lee Sharma:** [twitter][twitter-lee] | [slack][slack-lee] | [meetup][meetup-lee]
 - **Howard Miller:** [twitter][twitter-howard] | [slack][slack-howard] | [meetup][meetup-howard]
@@ -56,7 +54,7 @@ Contributors to the GitHub repository, the Meetup and/or event-related sites, sp
 Local Chapters
 --------------
 
-As noted above, local chapters are encouraged to fork and modify the Code of Conduct to best meet the needs of their communities. Some available sources:
+Local chapters are encouraged to fork and modify the Code of Conduct to best meet the needs of their communities. Some available sources:
 
 - [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
 - [JS Conf EU](http://2014.jsconf.eu/code-of-conduct.html)
