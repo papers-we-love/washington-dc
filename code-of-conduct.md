@@ -13,11 +13,21 @@ We value the participation of each member of the community and want all attendee
 Need help?
 ----------
 
-If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
+If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, **#paperswelove** on dctech.slack.com, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
-- **Organizer name** [org@email.com](mailto:org@email.com)
-- **Organizer name** [org@email.com](mailto:org@email.com)
-- **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
+- **Lee Sharma:** [twitter][twitter-lee] | [slack][slack-lee] | [meetup][meetup-lee]
+- **Howard Miller:** [twitter][twitter-howard] | [slack][slack-howard] | [meetup][meetup-howard]
+- **All:** [contact@paperswelove.org][mail-all]
+
+
+[twitter-lee]: https://twitter.com/theleesharma
+[twitter-howard]: https://twitter.com/hmmiller
+[slack-lee]: https://dctech.slack.com/messages/@leesharma/
+[slack-howard]: https://dctech.slack.com/messages/@hmmiller/
+[meetup-lee]: https://secure.meetup.com/messages/?new_convo=true&member_id=85453862&name=Lee+
+[meetup-howard]: https://secure.meetup.com/messages/?new_convo=true&member_id=184928411&name=Howard+
+[mail-all]: mailto:contact@paperswelove.org
+
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live events.
 
